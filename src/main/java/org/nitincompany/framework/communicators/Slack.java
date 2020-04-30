@@ -89,13 +89,6 @@ public class Slack {
 
     static public String getSlackConfigFilePath(String project) {
         switch (project) {
-            case "Experience upper funnel":
-                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-upfun.properties";
-
-            case "Experience lower funnel topproduct":
-                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-lowfun.properties";
-            case "Experience lower funnel regression":
-                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-lowfun.properties";
             case "Cinema":
                 return System.getProperty("user.dir") + "/resources/config-files/slack/slack-cinema.properties";
             case "UsersReview":
@@ -104,8 +97,6 @@ public class Slack {
                 return System.getProperty("user.dir") + "/resources/config-files/slack/slack-UGC.properties";
             case "UsersBookmarks":
                 return System.getProperty("user.dir") + "/resources/config-files/slack/slack-UGC.properties";
-            case "Merchandising":
-                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-merchandising.properties";
         }
         return null;
     }
