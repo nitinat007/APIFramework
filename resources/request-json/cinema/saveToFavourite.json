@@ -1,0 +1,18 @@
+{
+  "fields": [],
+  "data": {
+    "theatreId": "$theatreId",
+    "trackingRequest": {
+      "firstVisit": false,
+      "visitId": "1572935418396.730957",
+      "pageEvent": "MARK_FAVORITE",
+      "pageName": "QUICK_BUY"
+    }
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

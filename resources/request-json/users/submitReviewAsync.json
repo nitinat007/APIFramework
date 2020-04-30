@@ -1,0 +1,29 @@
+{
+  "id": "123",
+  "method": "submitReviewAsync",
+  "params": [
+    {
+      "clientId":55555,
+      "objectType": "TEST"
+    },
+    {
+      "objectId": "$objectId",
+      "objectName": "$objectName",
+      "objectNames": "$objectNames",
+      "contentTypes":["$contentTypes"],
+      "reviewText":"$reviewText",
+      "language":"$language",
+      "overallRating":"$overallRating",
+      "maximumRating":"$maximumRating",
+      "ratings":["$ratings"],
+      "tags":["$tagId"],
+      "reviewerId":"$reviewerId",
+      "reviewerName":"$reviewerName",
+      "anonymous":"$anonymous",
+      "contexts": "$contexts",
+      "media":["$media"],
+      "needModeration":"$needModeration"
+    }
+
+  ]
+}

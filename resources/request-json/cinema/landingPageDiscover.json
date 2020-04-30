@@ -1,0 +1,18 @@
+{
+  "fields": [],
+  "data": {
+    "cityId": "$cityId",
+    "currency": "$currency",
+    "trackingRequest": {
+      "visitId": "$visitId",
+      "pageEvent": "$pageEvent",
+      "pageName": "$pageName"
+    }
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

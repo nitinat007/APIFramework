@@ -1,0 +1,27 @@
+{
+  "fields": [],
+  "data": {
+    "showTimeId": "$showTimeId",
+    "auditoriumTypeId": "$auditoriumTypeId",
+    "movieId": "$movieId",
+    "theatreId": "$theatreId",
+    "date": {
+      "month": "$month",
+      "day": "$day",
+      "year": "$year"
+    },
+    "trackingRequest": {
+      "firstVisit": false,
+      "visitId": "1572934135602.775146",
+      "pageEvent": "PAGE_LOAD",
+      "pageName": "SELECT_SEAT"
+    },
+    "currency": "$currency"
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

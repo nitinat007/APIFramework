@@ -1,0 +1,12 @@
+{
+  "fields": [],
+  "data": {
+    "currency": "$currency"
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+},
+"clientInterface": "$clientInterface"
+}

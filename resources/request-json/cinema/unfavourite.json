@@ -1,0 +1,17 @@
+{
+  "fields": [],
+  "data": {
+    "trackingRequest": {
+      "firstVisit": false,
+      "visitId": "1572935418396.730957",
+      "pageEvent": "REMOVE_FAVORITE",
+      "pageName": "DISCOVER_MORE"
+    }
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

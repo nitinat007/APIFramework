@@ -1,0 +1,20 @@
+{
+  "fields": [],
+  "data": {
+    "currency": "$currency",
+    "theatreId": "$theatreId",
+    "date": {"month": "$month", "day": "$day", "year": "$year"},
+    "trackingRequest": {
+      "firstVisit": false,
+      "visitId": "1572935282372.404053",
+      "pageEvent": "PAGE_LOAD",
+      "pageName": "CINEMA_DETAIL"
+    }
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

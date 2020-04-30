@@ -1,0 +1,19 @@
+{
+  "fields": [],
+  "data": {
+    "invoiceId": "$invoiceId",
+    "bookingId": "$bookingId",
+    "auth": "$auth",
+    "trackingRequest": {
+      "visitId": "$visitId",
+      "pageEvent": "$pageEvent",
+      "pageName": "$pageName"
+    }
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

@@ -1,0 +1,20 @@
+{
+  "fields": [],
+  "data": {
+    "showTimeId": "$showTimeId",
+    "movieId": "$movieId",
+    "theatreId": "$theatreId",
+    "showDate": {
+      "month": "$month",
+      "day": "$day",
+      "year": "$year"
+    },
+    "currency": "$currency"
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "123",
+  "method": "updateReviewAsync",
+  "params": [
+    {
+      "clientId": 55555,
+      "objectType": "TEST"
+    },
+    {
+      "review": {
+        "reviewId": "$reviewId",
+        "status": "$status",
+        "reviewerId": "$reviewerId",
+        "anonymous": "$anonymous"
+      },
+      "dirtyFields": ["$dirtyFields"]
+    }
+  ]
+}

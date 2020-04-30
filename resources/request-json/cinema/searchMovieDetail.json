@@ -1,0 +1,18 @@
+{
+  "fields": [],
+  "data": {
+    "movieId": "$movieId",
+    "trackingRequest": {
+      "firstVisit": false,
+      "visitId": "1572934135602.775146",
+      "pageEvent": "PAGE_LOAD",
+      "pageName": "MOVIE_DETAIL"
+    }
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+"nonce": "$nonce",
+"tvSession": "$tvSession"
+},
+"clientInterface": "$clientInterface"
+}

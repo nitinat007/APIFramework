@@ -1,0 +1,16 @@
+{
+  "fields": [],
+  "data": {
+    "location": {
+      "lat": "$lat",
+      "lon": "$lon"
+    }
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}
+

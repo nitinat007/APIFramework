@@ -1,0 +1,21 @@
+{
+  "fields": [],
+  "data": {
+    "movieId": "$movieId",
+    "currency": "$currency",
+    "theatreId": "$theatreId",
+    "trackingRequest": {
+      "firstVisit": false,
+      "visitId": "08ef5e64-feb1-430f-ac09-2ef70adbc64e",
+      "pageEvent": "PAGE_LOAD",
+      "pageName": "SELECT_SCHEDULE"
+    },
+    "date":{"month":"$month","day":"$day","year":"$year"}
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+"nonce": "$nonce",
+"tvSession": "$tvSession"
+},
+"clientInterface": "$clientInterface"
+}

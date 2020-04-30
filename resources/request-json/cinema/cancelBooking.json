@@ -1,0 +1,14 @@
+{
+  "fields": [],
+  "data": {
+    "invoiceId": "$invoiceId",
+    "bookingId": "$bookingId",
+    "auth": "$auth"
+  },
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

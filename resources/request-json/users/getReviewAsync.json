@@ -1,0 +1,13 @@
+{
+  "id": "123",
+  "method": "getReviewAsync",
+  "params": [
+    {
+      "clientId":55555,
+      "objectType": "TEST"
+    },
+    {
+      "reviewId": "$reviewId"
+    }
+  ]
+}

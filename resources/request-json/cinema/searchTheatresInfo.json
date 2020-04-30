@@ -1,0 +1,14 @@
+{
+  "data":{
+    "theatreIds":[
+      "$theatreIds"
+    ]
+  },
+  "fields":[],
+  "context": {
+    "tvLifetime": "$tvLifetime",
+    "nonce": "$nonce",
+    "tvSession": "$tvSession"
+  },
+  "clientInterface": "$clientInterface"
+}

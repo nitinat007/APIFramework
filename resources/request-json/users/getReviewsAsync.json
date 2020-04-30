@@ -1,0 +1,29 @@
+{
+  "id": "123",
+  "method": "getReviewsAsync",
+  "params": [
+    {
+      "clientId":55555,
+      "objectType": "TEST"
+    },
+    {
+      "reviewerId":"$reviewerId",
+      "objectId": "$objectId",
+      "language":"$language",
+      "tags":["$tags"],
+      "context": "$context",
+      "contentTypes":["$contentTypes"],
+      "reviewStatusSet":["$reviewStatusSet"],
+      "languageSet":["$languageSet"],
+      "skip":"$skip",
+      "limit":"$limit",
+      "sortBy":"$sortBy",
+      "sortOrder":"$sortOrder",
+      "createdTimestampStart": "$createdTimestampStart",
+      "createdTimestampEnd": "$createdTimestampEnd",
+      "updatedTimestampStart": "$updatedTimestampStart",
+      "updatedTimestampEnd": "$updatedTimestampEnd",
+      "enableReviewCount":"$enableReviewCount"
+    }
+  ]
+}
