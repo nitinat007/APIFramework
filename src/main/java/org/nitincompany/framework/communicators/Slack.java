@@ -92,11 +92,11 @@ public class Slack {
             case "Cinema":
                 return System.getProperty("user.dir") + "/resources/config-files/slack/slack-cinema.properties";
             case "UsersReview":
-                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-UGC.properties";
+                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-users.properties";
             case "UsersComments":
-                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-UGC.properties";
+                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-users.properties";
             case "UsersBookmarks":
-                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-UGC.properties";
+                return System.getProperty("user.dir") + "/resources/config-files/slack/slack-users.properties";
         }
         return null;
     }

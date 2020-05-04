@@ -6,5 +6,5 @@ package org.nitincompany.framework.readers;
  * Info: Utils to read CSV data
  **/
 
-public class CSVReader {
+public class CSVFileReader {
 }
