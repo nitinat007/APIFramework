@@ -5,15 +5,11 @@ import com.progathon.users.reviews.utils.UsersReviewUtils;
 import io.restassured.response.ValidatableResponse;
 import com.progathon.framework.readers.CSVParametersProvider;
 import com.progathon.framework.readers.DataFileParameters;
-import com.progathon.users.reviews.utils.ReviewSubmissionBean;
-import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-
-import static com.progathon.users.reviews.utils.UsersReviewUtils.*;
 
 /**
  * Author: nitinkumar

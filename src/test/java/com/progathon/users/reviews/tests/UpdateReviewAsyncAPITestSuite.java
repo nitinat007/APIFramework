@@ -9,9 +9,6 @@ import org.testng.annotations.Test;
 
 import java.util.*;
 
-import static com.progathon.users.reviews.utils.UsersReviewUtils.getParticularColumnValueOfATestFromCSV;
-import static com.progathon.users.reviews.utils.UsersReviewUtils.getReviewOfGivenReviewId;
-
 /**
  * Author: nitinkumar
  * Created Date: 23/04/20

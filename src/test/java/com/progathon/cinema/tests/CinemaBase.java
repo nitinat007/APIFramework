@@ -3,7 +3,6 @@ package com.progathon.cinema.tests;
 import com.progathon.framework.reporters.ExtentManager;
 import com.progathon.framework.communicators.Slack;
 import com.progathon.framework.initializers.APIFramework;
-import com.progathon.framework.reporters.ExtentManager;
 import com.progathon.framework.reporters.Logger;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;

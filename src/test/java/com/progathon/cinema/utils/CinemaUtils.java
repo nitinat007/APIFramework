@@ -4,8 +4,6 @@ import com.progathon.cinema.utils.requestFields.CinemaBookSeatRequestFields;
 import com.progathon.cinema.utils.requestFields.CinemaGetScheduleSummaryRequestFields;
 import io.restassured.response.ValidatableResponse;
 import com.progathon.cinema.constants.CinemaConstants;
-import com.progathon.cinema.utils.requestFields.CinemaBookSeatRequestFields;
-import com.progathon.cinema.utils.requestFields.CinemaGetScheduleSummaryRequestFields;
 import com.progathon.framework.initializers.APIFramework;
 import com.progathon.framework.reporters.Logger;
 

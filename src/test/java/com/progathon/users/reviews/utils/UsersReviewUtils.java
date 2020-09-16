@@ -7,12 +7,9 @@ import com.progathon.users.reviews.utils.comparators.ReviewComparator;
 import com.progathon.users.reviews.utils.filters.UserReviewFilters;
 import io.restassured.response.ValidatableResponse;
 import com.progathon.framework.initializers.APIFramework;
-import com.progathon.users.reviews.utils.comparators.ReviewComparator;
 
 import java.io.*;
 import java.util.*;
-
-import static com.progathon.users.reviews.utils.filters.UserReviewFilters.*;
 
 
 /**

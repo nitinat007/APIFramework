@@ -2,7 +2,6 @@ package com.progathon.cinema.tests;
 
 import com.progathon.cinema.dp.CinemaDP;
 import io.restassured.response.ValidatableResponse;
-import com.progathon.cinema.dp.CinemaDP;
 import com.progathon.framework.initializers.APIFramework;
 import org.testng.Assert;
 import org.testng.annotations.Test;

@@ -4,7 +4,6 @@ import com.progathon.users.reviews.utils.ReviewSubmissionBean;
 import io.restassured.response.ValidatableResponse;
 import com.progathon.framework.readers.CSVParametersProvider;
 import com.progathon.framework.readers.DataFileParameters;
-import com.progathon.users.reviews.utils.ReviewSubmissionBean;
 import org.testng.Assert;
 import org.testng.annotations.*;
 

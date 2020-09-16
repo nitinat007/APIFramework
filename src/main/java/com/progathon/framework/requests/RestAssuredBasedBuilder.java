@@ -10,9 +10,6 @@ import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
-import com.progathon.apiRepository.APITemplate;
-import com.progathon.framework.readers.JSONFileReader;
-import com.progathon.framework.readers.PropertyReader;
 import com.progathon.framework.reporters.Logger;
 
 import java.io.FileNotFoundException;

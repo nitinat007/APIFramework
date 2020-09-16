@@ -6,7 +6,6 @@ package com.progathon.framework.readers;
 
 import au.com.bytecode.opencsv.CSVReader;
 import com.progathon.framework.utils.Utils;
-import com.progathon.framework.utils.Utils;
 import org.testng.ITestContext;
 import org.testng.Reporter;
 import org.testng.annotations.DataProvider;

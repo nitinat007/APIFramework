@@ -2,7 +2,6 @@ package com.progathon.framework.initializers;
 
 
 import com.progathon.apiRepository.APITemplate;
-import com.progathon.apiRepository.APITemplate;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 

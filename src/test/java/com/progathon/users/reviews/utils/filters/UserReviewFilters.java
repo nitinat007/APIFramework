@@ -3,7 +3,6 @@ package com.progathon.users.reviews.utils.filters;
 import com.google.gson.*;
 import com.progathon.users.reviews.utils.comparators.UserComparators;
 import com.progathon.users.reviews.utils.UsersReviewUtils;
-import com.progathon.users.reviews.utils.comparators.UserComparators;
 
 import java.util.*;
 
